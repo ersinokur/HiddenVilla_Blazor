@@ -132,6 +132,13 @@ using HiddenVilla_Server.Helper;
 #line hidden
 #nullable disable
 #nullable restore
+#line 18 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+using HiddenVilla_Server.Service.IServices;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\Pages\LearnBlazor\BindProp.razor"
 using Model;
 

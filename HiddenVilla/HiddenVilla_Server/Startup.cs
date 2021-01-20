@@ -15,6 +15,8 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Business.Repository.IRepository;
 using Business.Repository;
+using HiddenVilla_Server.Service.IServices;
+using HiddenVilla_Server.Service;
 
 namespace HiddenVilla_Server
 {
@@ -36,6 +38,9 @@ namespace HiddenVilla_Server
             //automapper blazor tarafýnda kullanmak için ayarladýk.
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IHotelRoomRepository, HotelRoomRepository>();
+            services.AddScoped<IHotelRoomImagesRepository, HotelRoomImagesRepository>();
+            services.AddScoped<IFileUpload, FileUpload>();
+
             
 
             services.AddRazorPages();
