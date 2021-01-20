@@ -1,0 +1,18 @@
+﻿
+<h4 class="text-primary pt-3">Another Child Component</h4>
+
+<input id="RoomName" @attributes="@InputAttributes" />
+
+@code {
+
+    //[Parameter]
+    //public string PlaceHolder { get; set; }
+
+    [Parameter]
+    public Dictionary<string, object> InputAttributes { get; set; }  = new Dictionary<string, object>()
+    {
+        {"required" , "required" },
+        {"placeholder" , "Initial Text" },
+        {"maxlength" , 10 },
+    };
+}

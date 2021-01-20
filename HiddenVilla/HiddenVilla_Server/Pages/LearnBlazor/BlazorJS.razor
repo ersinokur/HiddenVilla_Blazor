@@ -1,0 +1,72 @@
+﻿@page "/blazorjs"
+@inject IJSRuntime JSRuntime
+
+<h3>BlazorJS</h3>
+
+<div class="row">
+    <button class="btn btn-secondary" @onclick="()=>TestConfirmBox(ConfirmMesssage)">Test Cofirm Button </button>
+</div>
+<div class="row mt-4">
+    <button class="btn btn-success" @onclick="TestToasterSuccess">Test Cofirm Button </button>
+    <br>
+    <button class="btn btn-danger" @onclick="TestToasterError">Test Cofirm Button </button>
+</div>
+
+<div class="row mt-4">
+    <button class="btn btn-success" @onclick="TestSwalSuccess">Test SweetAlerJS Success </button>
+    <br>
+    <button class="btn btn-danger" @onclick="TestSwalError">Test SweetAlerJS Success </button>
+</div>
+
+
+
+<div class="row">
+    @if (ConfirmResult)
+    {
+        <p>Confirmation has been made!</p>
+    }
+    else
+    {
+        <p>Confirmation Pending!</p>
+    }
+</div>
+
+@code {
+
+    private string ConfirmMesssage = "Are you sure you want to click?";
+    private bool ConfirmResult { get; set; }
+
+    private async Task TestConfirmBox(string message)
+    {
+        //Geriye birsey donerse; InvokeAsync
+        ConfirmResult = await JSRuntime.InvokeAsync<bool>("confirm", ConfirmMesssage);
+    }
+
+    private async Task TestToasterSuccess()
+    {
+
+        await JSRuntime.ToastrSuccess("ShowToastr","işlem başarılı");
+    }
+
+    private async Task TestToasterError()
+    {
+
+        await JSRuntime.ToastrError("ShowToastr", "Bir hata oluştu");
+    }
+    private async Task TestSwalSuccess()
+    {
+        //extensiona gerek kalmadan dogrudan cagirimi
+        //await JSRuntime.InvokeVoidAsync("ShowSwal", "success", "Task completed successfully");
+        await JSRuntime.ToastrSuccess("ShowSwal", "Task completed successfully");
+
+    }
+
+    private async Task TestSwalError()
+    {
+
+        //await JSRuntime.InvokeVoidAsync("ShowSwal", "error", "Task failed");
+        await JSRuntime.ToastrError("ShowSwal", "Task Failed");
+
+    }
+
+}

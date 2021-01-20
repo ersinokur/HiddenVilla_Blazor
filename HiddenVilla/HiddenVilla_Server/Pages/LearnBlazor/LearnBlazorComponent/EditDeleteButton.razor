@@ -1,0 +1,11 @@
+﻿
+@if (IsAdmin)
+{
+    <input type="button" class="btn btn-danger" value="delete">
+    <input type="button" class="btn btn-success" value="Edit" />
+}
+@code{
+
+    [Parameter]
+    public bool IsAdmin { get; set; }
+}

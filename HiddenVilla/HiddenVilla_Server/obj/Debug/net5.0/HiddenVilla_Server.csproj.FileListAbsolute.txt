@@ -1,0 +1,271 @@
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\appsettings.Development.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\appsettings.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.StaticWebAssets.xml
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.exe
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.deps.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.runtimeconfig.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.runtimeconfig.dev.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\ref\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.Views.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.Views.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csprojAssemblyReference.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.AssemblyInfoInputs.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.AssemblyInfo.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csproj.CoreCompileInputs.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.MvcApplicationPartsAssemblyInfo.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorComponent.input.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorComponent.output.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.TagHelpers.input.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.TagHelpers.output.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorCoreGenerate.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorAssemblyInfo.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorAssemblyInfo.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\staticwebassets\HiddenVilla_Server.StaticWebAssets.Manifest.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\staticwebassets\HiddenVilla_Server.StaticWebAssets.xml
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\bundle\HiddenVilla_Server.styles.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\projectbundle\HiddenVilla_Server.bundle.scp.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorTargetAssemblyInfo.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorTargetAssemblyInfo.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.Views.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\ref\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.genruntimeconfig.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csproj.CopyComplete
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\BindProp.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\BindProp.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\DemoHotel.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\DemoHotel.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\appsettings.Development.json
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\appsettings.json
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.StaticWebAssets.xml
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.exe
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.deps.json
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.runtimeconfig.json
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.runtimeconfig.dev.json
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.dll
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\ref\HiddenVilla_Server.dll
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.pdb
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.Views.dll
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.Views.pdb
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csprojAssemblyReference.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.AssemblyInfoInputs.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.AssemblyInfo.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csproj.CoreCompileInputs.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.MvcApplicationPartsAssemblyInfo.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorComponent.input.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\BindProp.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\DemoHotel.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorComponent.output.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\HiddenVilla_Server.dll
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.TagHelpers.input.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.TagHelpers.output.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorCoreGenerate.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\BindProp.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\DemoHotel.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorAssemblyInfo.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorAssemblyInfo.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\staticwebassets\HiddenVilla_Server.StaticWebAssets.Manifest.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\staticwebassets\HiddenVilla_Server.StaticWebAssets.xml
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\bundle\HiddenVilla_Server.styles.css
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\projectbundle\HiddenVilla_Server.bundle.scp.css
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorTargetAssemblyInfo.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorTargetAssemblyInfo.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.Views.pdb
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.dll
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\ref\HiddenVilla_Server.dll
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.pdb
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.genruntimeconfig.cache
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csproj.CopyComplete
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\EditDeleteButton.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\EditDeleteButton.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\IndividualRoom.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\IndividualRoom.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\IndividualAminities.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\IndividualAminities.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\LifeCycleComponent.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\LifeCycleComponent.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LifeCycle.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LifeCycle.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\ParentComponent.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\ParentComponent.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\ChildComponent.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\ChildComponent.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\AnotherChildComponent.razor.g.cs
+C:\lab\repos\Blazor Porjects\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\AnotherChildComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.exe
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.Views.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\DataAccess.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\AutoMapper.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Models.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Business.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Humanizer.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Business.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\DataAccess.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Models.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csprojAssemblyReference.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.AssemblyInfoInputs.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.AssemblyInfo.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csproj.CoreCompileInputs.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.MvcApplicationPartsAssemblyInfo.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorComponent.input.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\HotelRoom\HotelRoomList.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\HotelRoom\HotelRoomUpsert.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\BindProp.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\BlazorJS.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\DemoHotel.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnAdvanceRouting.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\AnotherChildComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\ChildComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\EditDeleteButton.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\GrandChildComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\IndividualAminities.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\IndividualRoom.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnBlazorComponent\LifeCycleComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LearnRouting.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\LifeCycle.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Pages\LearnBlazor\ParentComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorComponent.output.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.TagHelpers.input.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.TagHelpers.output.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorCoreGenerate.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\HotelRoom\HotelRoomList.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\HotelRoom\HotelRoomUpsert.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\BindProp.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\BlazorJS.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\DemoHotel.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnAdvanceRouting.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\AnotherChildComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\ChildComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\EditDeleteButton.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\GrandChildComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\IndividualAminities.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\IndividualRoom.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnBlazorComponent\LifeCycleComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LearnRouting.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\LifeCycle.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\LearnBlazor\ParentComponent.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorAssemblyInfo.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorAssemblyInfo.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\staticwebassets\HiddenVilla_Server.StaticWebAssets.Manifest.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\staticwebassets\HiddenVilla_Server.StaticWebAssets.xml
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\bundle\HiddenVilla_Server.styles.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\projectbundle\HiddenVilla_Server.bundle.scp.css
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorTargetAssemblyInfo.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.RazorTargetAssemblyInfo.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.Views.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\ref\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\appsettings.Development.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\appsettings.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\libman.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.StaticWebAssets.xml
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.deps.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.runtimeconfig.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.runtimeconfig.dev.json
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\ref\HiddenVilla_Server.dll
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.Views.pdb
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csproj.CopyComplete
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.genruntimeconfig.cache

@@ -1,0 +1,50 @@
+﻿@page "/parentcomponent"
+
+<h1 class="text-danger">Parant Child Component</h1>
+
+<CascadingValue Value="@MessageForGrandChild">
+    <CascadingValue Value="@LuckyNumber">
+        <ChildComponent @ref ="childComp"
+                        OnClickBtnMethod="@ShowMessage" 
+                        Title="This title is passed as parameter from parent component">
+            @* buraya yazilan değer childcomponment renderfragment de tanimlandi *@
+            <ChildContent>Render Fragment Form Parent! whHooo!</ChildContent>
+            @* childcontent etiketi kullanmadan da yazabiliriz. *@
+
+            <DangerChildContent>Danger content from multiple render fragment! </DangerChildContent>
+
+        </ChildComponent>
+    </CascadingValue>
+</CascadingValue>
+<AnotherChildComponent InputAttributes="@InputAttributesFromParent" />
+
+<p><b>@messageText</b></p>
+
+<div class="row mt-4">
+    <button class="btn btn-success" @onclick="()=>childComp.ShowSuccessMessage()">Show Message</button>
+</div>
+
+
+@code {
+
+    private ChildComponent childComp;
+
+    private string messageText = "";
+    private string MessageForGrandChild = "this is a message from grand parent";
+    public int LuckyNumber { get; set; } = 7;
+
+
+    public Dictionary<string, object> InputAttributesFromParent { get; set; } = new Dictionary<string, object>()
+{
+        {"required" , "required" },
+        {"placeholder" , "Enter the Room Name from Parent" },
+        {"maxlength" , 5 },
+    };
+
+
+    private void ShowMessage(MouseEventArgs e)
+    {
+        messageText = "Blazzing text from parent!";
+    }
+
+}
