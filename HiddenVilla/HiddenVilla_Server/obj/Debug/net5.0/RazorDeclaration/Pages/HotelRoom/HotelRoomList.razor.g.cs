@@ -147,18 +147,44 @@ using HiddenVilla_Server.Service.IServices;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 57 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\Pages\HotelRoom\HotelRoomList.razor"
+#line 61 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\Pages\HotelRoom\HotelRoomList.razor"
        
     private IEnumerable<HotelRoomDTO> HotelRooms { get; set; } = new List<HotelRoomDTO>();
+    private int? DeleteRoomId { get; set; } = null;
+    //private bool IsDeleteProcessComplete { get; set; } = false;
 
     protected override async Task OnInitializedAsync()
     {
         HotelRooms = await HotelRoomRepository.GetALLHotelRooms();
     }
 
+
+    public async Task HandleDelete(int rooomId)
+    {
+        DeleteRoomId = rooomId;
+        //   IsDeleteProcessComplete = false;
+        await JSRuntime.InvokeVoidAsync("ShowDeleteConfirmationModal");
+
+    }
+
+
+    public async Task ConfirmDelete_Click(bool isConfirmed)
+    {
+        if (isConfirmed && DeleteRoomId != null)
+        {
+            await HotelRoomRepository.DeleteHotelRoom(DeleteRoomId.Value);
+            HotelRooms = await HotelRoomRepository.GetALLHotelRooms();
+
+        }
+        await JSRuntime.InvokeVoidAsync("HideDeleteConfirmationModal");
+    }
+
+
+
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JSRuntime { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigateMan { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private IHotelRoomRepository HotelRoomRepository { get; set; }
     }

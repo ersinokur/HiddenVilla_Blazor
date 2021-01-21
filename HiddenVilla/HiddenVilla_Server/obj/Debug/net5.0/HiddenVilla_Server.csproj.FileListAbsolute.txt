@@ -269,3 +269,5 @@ C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\Hidden
 C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\bin\Debug\net5.0\HiddenVilla_Server.Views.pdb
 C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.csproj.CopyComplete
 C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\HiddenVilla_Server.genruntimeconfig.cache
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\RazorDeclaration\Shared\DeleteConfirmation.razor.g.cs
+C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\Razor\Shared\DeleteConfirmation.razor.g.cs

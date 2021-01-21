@@ -1,6 +1,7 @@
 ﻿@page "/hotel-room"
 @inject IHotelRoomRepository HotelRoomRepository
 @inject NavigationManager NavigateMan
+@inject IJSRuntime JSRuntime
 
 <div class="row mt-4">
     <div class="col-8">
@@ -38,6 +39,7 @@
                             <td>@room.SqFt</td>
                             <td>
                                 <NavLink href="@($"hotel-room/edit/{room.Id}")" class="btn btn-primary">Edit</NavLink>
+                                <button class="btn btn-danger" @onclick="()=> HandleDelete(room.Id)">Delete</button>
                             </td>
                         </tr>
                     }
@@ -54,11 +56,38 @@
     </div>
 </div>
 
+<DeleteConfirmation />
+
 @code {
     private IEnumerable<HotelRoomDTO> HotelRooms { get; set; } = new List<HotelRoomDTO>();
+    private int? DeleteRoomId { get; set; } = null;
+    //private bool IsDeleteProcessComplete { get; set; } = false;
 
     protected override async Task OnInitializedAsync()
     {
         HotelRooms = await HotelRoomRepository.GetALLHotelRooms();
     }
+
+
+    public async Task HandleDelete(int rooomId)
+    {
+        DeleteRoomId = rooomId;
+        //   IsDeleteProcessComplete = false;
+        await JSRuntime.InvokeVoidAsync("ShowDeleteConfirmationModal");
+
+    }
+
+
+    public async Task ConfirmDelete_Click(bool isConfirmed)
+    {
+        if (isConfirmed && DeleteRoomId != null)
+        {
+            await HotelRoomRepository.DeleteHotelRoom(DeleteRoomId.Value);
+            HotelRooms = await HotelRoomRepository.GetALLHotelRooms();
+
+        }
+        await JSRuntime.InvokeVoidAsync("HideDeleteConfirmationModal");
+    }
+
+
 }
