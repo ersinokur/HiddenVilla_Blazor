@@ -145,6 +145,28 @@ using HiddenVilla_Server.Service.IServices;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 40 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\Shared\DeleteConfirmation.razor"
+       
+    [Parameter]
+    public EventCallback<bool> ConfirmationChanged { get; set; }
+
+    public bool IsProcessingStart { get; set; } = false;
+
+
+    protected async Task  OnConfirmationChange(bool value)
+    {
+        if (value)
+        {
+            IsProcessingStart = true;
+        }
+        await ConfirmationChanged.InvokeAsync(value);
+    }
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

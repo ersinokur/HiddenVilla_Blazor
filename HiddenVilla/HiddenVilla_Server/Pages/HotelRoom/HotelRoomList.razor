@@ -2,6 +2,7 @@
 @inject IHotelRoomRepository HotelRoomRepository
 @inject NavigationManager NavigateMan
 @inject IJSRuntime JSRuntime
+@inject IFileUpload FileUpload
 
 <div class="row mt-4">
     <div class="col-8">
@@ -56,7 +57,7 @@
     </div>
 </div>
 
-<DeleteConfirmation />
+<DeleteConfirmation ConfirmationChanged="ConfirmDelete_Click"/>
 
 @code {
     private IEnumerable<HotelRoomDTO> HotelRooms { get; set; } = new List<HotelRoomDTO>();
@@ -82,8 +83,13 @@
     {
         if (isConfirmed && DeleteRoomId != null)
         {
+            HotelRoomDTO hotelroom = await HotelRoomRepository.GetHotelRoom(DeleteRoomId.Value);
+
+
+
             await HotelRoomRepository.DeleteHotelRoom(DeleteRoomId.Value);
-            HotelRooms = await HotelRoomRepository.GetALLHotelRooms();
+            await JSRuntime.ToastrSuccess("ShowSwal", "Hotel room deleted succesfully");
+            HotelRooms = await HotelRoomRepository.GetALLHotelRooms(); ;
 
         }
         await JSRuntime.InvokeVoidAsync("HideDeleteConfirmationModal");
