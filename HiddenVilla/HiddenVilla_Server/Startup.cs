@@ -48,6 +48,7 @@ namespace HiddenVilla_Server
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IHotelRoomRepository, HotelRoomRepository>();
             services.AddScoped<IHotelRoomImagesRepository, HotelRoomImagesRepository>();
+            services.AddScoped<IDbInitializer, DbInitializer>();
             services.AddScoped<IFileUpload, FileUpload>();
             services.AddHttpContextAccessor();
             
@@ -58,7 +59,8 @@ namespace HiddenVilla_Server
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        //IDBInitializer'i de ekle
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IDbInitializer dbInitializer)
         {
             if (env.IsDevelopment())
             {
@@ -77,6 +79,8 @@ namespace HiddenVilla_Server
             //scaffold identity eklendikten sonra
             app.UseAuthentication();
             app.UseAuthorization();
+            //kuruluþta rol, admin ve admin rol tanýmlarý için oluþturduðumuz seed sýnýfýný çalýþtýr
+            dbInitializer.Initalize();
 
            
 
