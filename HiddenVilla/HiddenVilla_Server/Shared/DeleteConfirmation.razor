@@ -41,7 +41,15 @@
     [Parameter]
     public EventCallback<bool> ConfirmationChanged { get; set; }
 
+    [Parameter]
+    public bool IsParentComponentProcessing { get; set; }
+
     public bool IsProcessingStart { get; set; } = false;
+
+    protected override void OnParametersSet()
+    {
+        IsProcessingStart = IsParentComponentProcessing;
+    }
 
 
     protected async Task  OnConfirmationChange(bool value)

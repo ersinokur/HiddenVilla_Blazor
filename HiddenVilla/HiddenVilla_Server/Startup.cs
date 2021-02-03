@@ -17,6 +17,7 @@ using Business.Repository.IRepository;
 using Business.Repository;
 using HiddenVilla_Server.Service.IServices;
 using HiddenVilla_Server.Service;
+using Microsoft.AspNetCore.Identity;
 
 namespace HiddenVilla_Server
 {
@@ -35,12 +36,20 @@ namespace HiddenVilla_Server
         {
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DeafultConnetion")));
+
+            // identity tablolari oldutuktan sonra bu servisi ekle
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders()
+                .AddDefaultUI();
+
+           
+
             //automapper blazor tarafýnda kullanmak için ayarladýk.
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IHotelRoomRepository, HotelRoomRepository>();
             services.AddScoped<IHotelRoomImagesRepository, HotelRoomImagesRepository>();
             services.AddScoped<IFileUpload, FileUpload>();
-
+            services.AddHttpContextAccessor();
             
 
             services.AddRazorPages();
@@ -64,11 +73,17 @@ namespace HiddenVilla_Server
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
+            //scaffold identity eklendikten sonra
+            app.UseAuthentication();
+            app.UseAuthorization();
+
+           
 
             app.UseEndpoints(endpoints =>
             {
+                //ekle
+                endpoints.MapRazorPages();
                 endpoints.MapBlazorHub();
                 endpoints.MapFallbackToPage("/_Host");
             });

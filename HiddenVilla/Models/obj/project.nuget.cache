@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wAKG54HXhury3xiYZ7rpwaqknlx25xAn1WSsWS9IgvXuxyyArJXaE2k47+eA8X3J67ppoEk7CYZek337evmbuQ==",
+  "dgSpecHash": "3vlV+uppjchMw1lWQWfEqLjPM2Mg2d6IrSUsQFy+n/7hMc4y/1aWldIN5PWLi+U93b4nvjdfpALqlJe8IBIlhw==",
   "success": true,
-  "projectFilePath": "C:\\lab\\Blazor\\HiddenVilla\\HiddenVilla\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Lab\\Blazor\\HiddenVilla_Blazor\\HiddenVilla\\Models\\Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

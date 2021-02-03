@@ -3,6 +3,8 @@
 @inject NavigationManager NavigateMan
 @inject IJSRuntime JSRuntime
 @inject IFileUpload FileUpload
+@*//sadece yetkilendirişlmiş kullanıcılar erişecek!*@ 
+@attribute [Authorize(Roles =Common.SD.Role_Admin)]
 
 <div class="row mt-4">
     <div class="col-8">
@@ -57,11 +59,12 @@
     </div>
 </div>
 
-<DeleteConfirmation ConfirmationChanged="ConfirmDelete_Click"/>
+<DeleteConfirmation IsParentComponentProcessing="IsProcessing" ConfirmationChanged="ConfirmDelete_Click"/>
 
 @code {
     private IEnumerable<HotelRoomDTO> HotelRooms { get; set; } = new List<HotelRoomDTO>();
     private int? DeleteRoomId { get; set; } = null;
+    private bool IsProcessing { get; set; } = false;
     //private bool IsDeleteProcessComplete { get; set; } = false;
 
     protected override async Task OnInitializedAsync()
@@ -81,11 +84,18 @@
 
     public async Task ConfirmDelete_Click(bool isConfirmed)
     {
+        IsProcessing = true;
+
         if (isConfirmed && DeleteRoomId != null)
         {
             HotelRoomDTO hotelroom = await HotelRoomRepository.GetHotelRoom(DeleteRoomId.Value);
 
+            foreach (var image in hotelroom.HotelRoomImages)
+            {
 
+                var imageName = image.RoomImageUrl.Replace($"{NavigateMan.BaseUri}RoomImages/", "");
+                FileUpload.DeleteFile(imageName);
+            }
 
             await HotelRoomRepository.DeleteHotelRoom(DeleteRoomId.Value);
             await JSRuntime.ToastrSuccess("ShowSwal", "Hotel room deleted succesfully");
@@ -93,6 +103,7 @@
 
         }
         await JSRuntime.InvokeVoidAsync("HideDeleteConfirmationModal");
+        IsProcessing = false;
     }
 
 

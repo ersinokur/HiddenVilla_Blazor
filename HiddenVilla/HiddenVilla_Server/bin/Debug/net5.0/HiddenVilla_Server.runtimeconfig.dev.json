@@ -3,8 +3,7 @@
     "additionalProbingPaths": [
       "C:\\Users\\ersin.okur\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\ersin.okur\\.nuget\\packages",
-      "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
+      "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
     ]
   }
 }

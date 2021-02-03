@@ -13,127 +13,134 @@ namespace HiddenVilla_Server.Pages.HotelRoom
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 1 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 2 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 3 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 4 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 5 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 6 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 7 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 8 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 9 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 10 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 11 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 11 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Model;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 12 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 12 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Pages;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 13 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 13 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Pages.LearnBlazor;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 14 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 14 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 15 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 15 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Models.Dto;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 16 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 16 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using Business.Repository.IRepository;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 17 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 17 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Helper;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 18 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+#line 18 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Service.IServices;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 19 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\_Imports.razor"
+using Blazored.TextEditor;
 
 #line default
 #line hidden
@@ -148,7 +155,7 @@ using HiddenVilla_Server.Service.IServices;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 83 "C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\Pages\HotelRoom\HotelRoomUpsert.razor"
+#line 116 "C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\Pages\HotelRoom\HotelRoomUpsert.razor"
        
 
     [Parameter]
@@ -161,8 +168,21 @@ using HiddenVilla_Server.Service.IServices;
     private string Title { get; set; } = "Create";
     private bool IsImageUploadProcessStareted { set; get; } = false;
 
+    public BlazoredTextEditor QuillHtml { get; set; } = new BlazoredTextEditor();
+
+    [CascadingParameter]
+    public Task<AuthenticationState> AuthenticationState { get; set; }
+
     protected async override Task OnInitializedAsync()
     {
+        var authState = await AuthenticationState;
+        //  if (!authState.User.Identity.IsAuthenticated)
+        if (!authState.User.IsInRole(Common.SD.Role_Admin) )
+        {
+            var uri = new Uri(NavigateMan.Uri);
+            NavigateMan.NavigateTo($"/identity/account/login?returnUrl={uri.LocalPath}");
+        }
+
         if (Id != null)
         {
             //updating
@@ -173,6 +193,7 @@ using HiddenVilla_Server.Service.IServices;
             {
                 HotelRoomModel.ImageUrls = HotelRoomModel.HotelRoomImages.Select(u => u.RoomImageUrl).ToList();
             }
+
         }
         else
         {
@@ -180,6 +201,36 @@ using HiddenVilla_Server.Service.IServices;
             HotelRoomModel = new HotelRoomDTO();
 
         }
+
+
+    }
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+            return;
+
+        bool loading = true;
+        while (loading)
+        {
+            try
+            {
+                if (!string.IsNullOrEmpty(HotelRoomModel.Details))
+                {
+                    await this.QuillHtml.LoadHTMLContent(HotelRoomModel.Details);
+                }
+                loading = false;
+            }
+            catch (Exception)
+            {
+
+                await Task.Delay(10);
+                loading = true;
+            }
+        }
+
+
+        //return base.OnAfterRenderAsync(firstRender);
     }
 
     private async Task HandleHotelRoomUpsert()
@@ -198,6 +249,7 @@ using HiddenVilla_Server.Service.IServices;
             if (HotelRoomModel.Id != 0 && Title == "Update")
             {
                 //update
+                HotelRoomModel.Details = await QuillHtml.GetHTML();
                 var updatedRoomResult = await HotelRoomRepository.UpdateHotelRoom(HotelRoomModel.Id, HotelRoomModel);
 
                 if ((HotelRoomModel.ImageUrls != null && HotelRoomModel.ImageUrls.Any())
@@ -209,7 +261,7 @@ using HiddenVilla_Server.Service.IServices;
                     {
                         foreach (var deletedImageName in DeleteImageNames)
                         {
-                            var imageName = deletedImageName.Replace($"RoomImages/", "");
+                            var imageName = deletedImageName.Replace($"{NavigateMan.BaseUri}RoomImages/", "");
 
                             var result = FileUpload.DeleteFile(imageName);
                             await HotelRoomImagesRepository.DeleteHotelRoomImagebyImageUrl(deletedImageName);
@@ -224,6 +276,7 @@ using HiddenVilla_Server.Service.IServices;
             else
             {
                 //create
+                HotelRoomModel.Details = await QuillHtml.GetHTML();
                 var createdResult = await HotelRoomRepository.CreateHotelRoom(HotelRoomModel);
                 await AddHotelRoomImage(createdResult);
 
@@ -318,7 +371,7 @@ using HiddenVilla_Server.Service.IServices;
         try
         {
             var imageIndex = HotelRoomModel.ImageUrls.FindIndex(x => x == imageUrl);
-            var imageName = imageUrl.Replace($"RoomImages/", "");
+            var imageName = imageUrl.Replace($"{NavigateMan.BaseUri}RoomImages/", "");
             if (HotelRoomModel.Id == 0 && Title == "Create")
             {
                 var result = FileUpload.DeleteFile(imageName);
@@ -337,6 +390,16 @@ using HiddenVilla_Server.Service.IServices;
             await JSRuntime.ToastrError("ShowSwal", ex.Message);
         }
     }
+
+    //public  void SetHTML()
+    //{
+    //    if (!string.IsNullOrEmpty(HotelRoomModel.Details))
+    //    {
+    //         this.QuillHtml.LoadHTMLContent(HotelRoomModel.Details);
+
+    //    }
+    //    StateHasChanged();
+    //}
 
 
 #line default

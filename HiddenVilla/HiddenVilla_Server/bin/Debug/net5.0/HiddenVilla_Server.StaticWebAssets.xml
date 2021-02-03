@@ -1,3 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\lab\Blazor\HiddenVilla\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Lab\Blazor\HiddenVilla_Blazor\HiddenVilla\HiddenVilla_Server\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\ersin.okur\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.2\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/Blazored.TextEditor" Path="C:\Users\ersin.okur\.nuget\packages\blazored.texteditor\1.0.3\build\..\staticwebassets\" />
 </StaticWebAssets>
