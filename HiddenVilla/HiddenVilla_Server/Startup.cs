@@ -41,13 +41,8 @@ namespace HiddenVilla_Server
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders()
                 .AddDefaultUI();
-
-           
-
-            //automapper blazor tarafýnda kullanmak için ayarladýk.
-            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-            services.AddScoped<IHotelRoomRepository, HotelRoomRepository>();
-            services.AddScoped<IHotelRoomImagesRepository, HotelRoomImagesRepository>();
+            
+          
             services.AddScoped<IDbInitializer, DbInitializer>();
             services.AddScoped<IFileUpload, FileUpload>();
             services.AddHttpContextAccessor();
